@@ -1,0 +1,11 @@
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\bin\Debug\net5.0\PersonelBlog.Shared.deps.json
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\bin\Debug\net5.0\PersonelBlog.Shared.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\bin\Debug\net5.0\ref\PersonelBlog.Shared.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\bin\Debug\net5.0\PersonelBlog.Shared.pdb
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\obj\Debug\net5.0\PersonelBlog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\obj\Debug\net5.0\PersonelBlog.Shared.AssemblyInfoInputs.cache
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\obj\Debug\net5.0\PersonelBlog.Shared.AssemblyInfo.cs
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\obj\Debug\net5.0\PersonelBlog.Shared.csproj.CoreCompileInputs.cache
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\obj\Debug\net5.0\PersonelBlog.Shared.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\obj\Debug\net5.0\ref\PersonelBlog.Shared.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Shared\obj\Debug\net5.0\PersonelBlog.Shared.pdb
