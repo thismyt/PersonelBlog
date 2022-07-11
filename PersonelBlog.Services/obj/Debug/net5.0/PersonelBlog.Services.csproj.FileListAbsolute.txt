@@ -1,0 +1,12 @@
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\bin\Debug\net5.0\PersonelBlog.Services.deps.json
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\bin\Debug\net5.0\PersonelBlog.Services.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\bin\Debug\net5.0\ref\PersonelBlog.Services.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\bin\Debug\net5.0\PersonelBlog.Services.pdb
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\obj\Debug\net5.0\PersonelBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\obj\Debug\net5.0\PersonelBlog.Services.AssemblyInfoInputs.cache
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\obj\Debug\net5.0\PersonelBlog.Services.AssemblyInfo.cs
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\obj\Debug\net5.0\PersonelBlog.Services.csproj.CoreCompileInputs.cache
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\obj\Debug\net5.0\PersonelBlog.Services.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\obj\Debug\net5.0\ref\PersonelBlog.Services.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\obj\Debug\net5.0\PersonelBlog.Services.pdb
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Services\obj\Debug\net5.0\PersonelBlog.Services.csproj.AssemblyReference.cache

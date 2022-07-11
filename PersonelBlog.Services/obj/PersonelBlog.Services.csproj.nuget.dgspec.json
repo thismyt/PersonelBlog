@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Mert\\PersonelBlog\\PersonelBlog.Services\\PersonelBlog.Services.csproj": {}
+  },
+  "projects": {
+    "E:\\Mert\\PersonelBlog\\PersonelBlog.Data\\PersonelBlog.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Mert\\PersonelBlog\\PersonelBlog.Data\\PersonelBlog.Data.csproj",
+        "projectName": "PersonelBlog.Data",
+        "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Data\\PersonelBlog.Data.csproj",
+        "packagesPath": "C:\\Users\\Mert Ahmet VELİ\\.nuget\\packages\\",
+        "outputPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert Ahmet VELİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Mert\\PersonelBlog\\PersonelBlog.Entities\\PersonelBlog.Entities.csproj": {
+                "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Entities\\PersonelBlog.Entities.csproj"
+              },
+              "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj": {
+                "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Mert\\PersonelBlog\\PersonelBlog.Entities\\PersonelBlog.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Mert\\PersonelBlog\\PersonelBlog.Entities\\PersonelBlog.Entities.csproj",
+        "projectName": "PersonelBlog.Entities",
+        "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Entities\\PersonelBlog.Entities.csproj",
+        "packagesPath": "C:\\Users\\Mert Ahmet VELİ\\.nuget\\packages\\",
+        "outputPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert Ahmet VELİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj": {
+                "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Mert\\PersonelBlog\\PersonelBlog.Services\\PersonelBlog.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Mert\\PersonelBlog\\PersonelBlog.Services\\PersonelBlog.Services.csproj",
+        "projectName": "PersonelBlog.Services",
+        "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Services\\PersonelBlog.Services.csproj",
+        "packagesPath": "C:\\Users\\Mert Ahmet VELİ\\.nuget\\packages\\",
+        "outputPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert Ahmet VELİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Mert\\PersonelBlog\\PersonelBlog.Data\\PersonelBlog.Data.csproj": {
+                "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Data\\PersonelBlog.Data.csproj"
+              },
+              "E:\\Mert\\PersonelBlog\\PersonelBlog.Entities\\PersonelBlog.Entities.csproj": {
+                "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Entities\\PersonelBlog.Entities.csproj"
+              },
+              "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj": {
+                "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj",
+        "projectName": "PersonelBlog.Shared",
+        "projectPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\PersonelBlog.Shared.csproj",
+        "packagesPath": "C:\\Users\\Mert Ahmet VELİ\\.nuget\\packages\\",
+        "outputPath": "E:\\Mert\\PersonelBlog\\PersonelBlog.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert Ahmet VELİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

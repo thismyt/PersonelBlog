@@ -1,0 +1,15 @@
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\bin\Debug\net5.0\PersonelBlog.Entities.deps.json
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\bin\Debug\net5.0\PersonelBlog.Entities.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\bin\Debug\net5.0\ref\PersonelBlog.Entities.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\bin\Debug\net5.0\PersonelBlog.Entities.pdb
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\bin\Debug\net5.0\PersonelBlog.Shared.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\bin\Debug\net5.0\PersonelBlog.Shared.pdb
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\PersonelBlog.Entities.csproj.AssemblyReference.cache
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\PersonelBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\PersonelBlog.Entities.AssemblyInfoInputs.cache
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\PersonelBlog.Entities.AssemblyInfo.cs
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\PersonelBlog.Entities.csproj.CoreCompileInputs.cache
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\PersonelBlog.Entities.csproj.CopyComplete
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\PersonelBlog.Entities.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\ref\PersonelBlog.Entities.dll
+D:\Proje\WebApplication\PersonelBlog\PersonelBlog.Entities\obj\Debug\net5.0\PersonelBlog.Entities.pdb
